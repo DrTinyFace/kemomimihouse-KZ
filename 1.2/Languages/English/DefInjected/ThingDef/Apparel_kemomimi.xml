@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- I don't know that any of these are actually in game, but I'm translating them anyways-->
+  <Apparel_konarmor.label>Kon armor</Apparel_konarmor.label>
+  <Apparel_konarmor.description>A strange armor made from concrete that kons seem to take a liking to.
+  
+  Due to the fact that it's made out of concrete, it's extremely heavy and hard to wear.</Apparel_konarmor.description>
+
+  <Apparel_konkasa.label>Kon ear hat</Apparel_konkasa.label>
+  <Apparel_konkasa.description>A hat with small holes to allow for ears. A tight fit, but better than nothing.</Apparel_konkasa.description>
+
+ <Apparel_siroarmor.label>狼兽耳族秘籍</Apparel_siroarmor.label>
+  <Apparel_siroarmor.description>小白背后流传的秘传书副本
+使佩戴者的身体强健
+只是有点重</Apparel_siroarmor.description>
+
+ <Apparel_siroomen.label>战斗用小白狼面</Apparel_siroomen.label>
+  <Apparel_siroomen.description>狼兽耳族暗杀时使用的面具
+在杀死对方之前，必须先杀掉自己的心。</Apparel_siroomen.description>
+
+ <Apparel_kuroomen.label>战斗用黑色犬面</Apparel_kuroomen.label>
+  <Apparel_kuroomen.description>小黑爱用的狗耳族战斗用的假面。
+是参考深爱的小白姐姐的脸而制作的。</Apparel_kuroomen.description>
+</LanguageData>
