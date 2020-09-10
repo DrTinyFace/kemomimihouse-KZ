@@ -1,29 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <siroWool.label>小白的头发</siroWool.label>
-  <siroWool.description>小白狼耳后面的头发，又香又软。</siroWool.description>
+  <siroWool.label>Wolf-eared siro hair</siroWool.label>
+  <siroWool.description>The silver hair of a wolf-eared siro. Extremely soft, with an oddly nice smell.</siroWool.description>
 
-  <konWool.label>小空的头发</konWool.label>
-  <konWool.description>狐耳族的头发，拥有极致的柔软触感。</konWool.description>
+  <konWool.label>Fox-eared kon hair</konWool.label>
+  <konWool.description>The light brown hair of a fox-eared kon. Has a plushy feel to it.</konWool.description>
 
-  <hanaWool.label>小花的头发</hanaWool.label>
-  <hanaWool.description>兔耳族的头发，拥有极致的光泽与香味。</hanaWool.description>
+  <hanaWool.label>Rabbit-eared hana hair</hanaWool.label>
+  <hanaWool.description>The brownish pink hair of a rabbit-eared hana. Incredibly beautiful to look at.</hanaWool.description>
 
   <mikoWool.label>Cat-eared miko hair</mikoWool.label>
   <mikoWool.description>The golden hair of a cat-eared miko. Brilliantly bright, to the point of being dazzling.</mikoWool.description>
 
-  <akameWool.label>绯芽的头发</akameWool.label>
-  <akameWool.description>羊角族的头发，轻飘飘的粉红色，有着让人深陷其中的毛绒绒的感觉。</akameWool.description>
+  <akameWool.label>Ram-horned akame hair</akameWool.label>
+  <akameWool.description>The pink hair of a ram-horned akame. Very fluffy and very comfortable.</akameWool.description>
 
-  <aomeWool.label>青芽的头发</aomeWool.label>
-  <aomeWool.description>羊角族的头发，轻飘飘的淡蓝色，有着让人深陷其中的毛绒绒的感觉。</aomeWool.description>
+  <aomeWool.label>Ram-horned aome hair</aomeWool.label>
+  <aomeWool.description>The blue grey hair of a ram-horned aome. Soft and insulating.</aomeWool.description>
 
-  <kuroWool.label>小黑的头发</kuroWool.label>
-  <kuroWool.description>小黑的头发，乌黑发亮，非常坚韧。</kuroWool.description>
+  <kuroWool.label>Dog-eared kuro hair</kuroWool.label>
+  <kuroWool.description>The black hair of a dog-eared kuro. Shiny and incredibly strong.</kuroWool.description>
 
-  <yukiwool.label>雪儿的鳞发</yukiwool.label>
-  <yukiwool.description>雪儿坚韧的鳞发。
-摸起来有点凉。</yukiwool.description>
+  <yukiwool.label>Frost-dragon yuki scaled hair</yukiwool.label>
+  <yukiwool.description>The blue scaled hair of a frost-dragon yuki. Cool to the touch.</yukiwool.description>
 
 </LanguageData>

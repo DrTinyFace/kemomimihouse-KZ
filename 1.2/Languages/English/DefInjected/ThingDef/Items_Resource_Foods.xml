@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!--Drinks-->
+<AkameMilk.label>绯芽羊奶</AkameMilk.label>
+<AkameMilk.description>狐耳家被当做传家之宝的名刀的复制品。
+   因为小空经常随身带着刀而且非常讨厌别人碰她的刀，所以复制品制作起来十分困难。
+   「刀的名字？・・・・・・・・・空空丸景光・・・」</AkameMilk.description>
+<MikoWater.label>Miko's rice milk</MikoWater.label>
+<MikoWater.description>Cat-eared mikos are known to enjoy rice milk, which they make themselves and occasionally share with those who befriend them. Though it doesn't have the best taste to it, it's very nutritious and has a long shelf life.</MikoWater.description>
+<YukiBreath.label>雪儿的龙涎</YukiBreath.label>
+<YukiBreath.description>和米可一样，饭量很大的雪儿也会流一些口水，真的不是奶啦，收集后可以食用。雪儿的龙涎比较珍贵，虽然味道一般，但是可以强壮身体。</YukiBreath.description>
+<SiroWine.label>小白的酒</SiroWine.label>
+<SiroWine.description>小白会把收集的野果酿成酒送给你，不是奶啦，这是狼忍之里的特产，味道不错还不含酒精。</SiroWine.description>
+<KuroTea.label>小黑的茶</KuroTea.label>
+<KuroTea.description>小黑很羡慕姐姐小白的手艺，她虽然不会酿酒但还是会收集一些奇怪的材料，然后偷偷泡制成茶让你品尝，反正不是奶啦，味道怪怪的。</KuroTea.description>
+<KonHerbs.label>小空的药液</KonHerbs.label>
+<KonHerbs.description>小空极其善良富有同情心，她会默默收集草药制成药剂液，不是奶啦，随时准备救治受创伤的朋友。</KonHerbs.description>
+<AomeDrink.label>青芽的果汁</AomeDrink.label>
+<AomeDrink.description>青芽的布娃娃熊吾郎里装满了各种零食，这是青芽最喜欢的果汁，不是奶哦，酸酸甜甜味道不错。</AomeDrink.description>
+<HanaPerfume.label>小花的香液</HanaPerfume.label>
+<HanaPerfume.description>小花身上会有香香的味道，好像还可以收集起来，反正不是奶啦，据说把它做成饭菜也会有爱的甜甜味道。直接饮用会得到爱的力量。</HanaPerfume.description>
+
+<!--Hediffs-->
+<MikoWaterHigh.label>Rice milk high</MikoWaterHigh.label>
+<MikoWaterHigh.description>嗦了米可的口水，身上有了米可的气息，捕猎更方便了。</MikoWaterHigh.description>
+<YukiBreathHigh.label>龙涎效果</YukiBreathHigh.label>
+<YukiBreathHigh.description>嗦了雪儿的龙涎，有了一点点龙之力。</YukiBreathHigh.description>
+<SiroWineHigh.label>白酒效果</SiroWineHigh.label>
+<SiroWineHigh.description>喝了小白的酒，似醉非醉，学会了部分忍者村的奥义。</SiroWineHigh.description>
+<KuroTeaHigh.label>黑茶效果</KuroTeaHigh.label>
+<KuroTeaHigh.description>喝了小黑的茶，做了小黑的小白鼠，毒抗增强了。</KuroTeaHigh.description>
+<AomeDrinkHigh.label>果汁买卖</AomeDrinkHigh.label>
+<AomeDrinkHigh.description>喝了青芽的果汁，价格谈判能力提升。</AomeDrinkHigh.description>
+<HanaPerfumeHigh.label>香液效果</HanaPerfumeHigh.label>
+<HanaPerfumeHigh.description>嗦了小花的香液，浑身也变香香的，社交属性全面提升。</HanaPerfumeHigh.description>
+
+</LanguageData>

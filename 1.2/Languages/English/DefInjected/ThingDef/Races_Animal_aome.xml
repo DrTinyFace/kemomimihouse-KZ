@@ -1,16 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <aome.label>羊角青芽</aome.label>
-  <aome.description>青芽是小花家的见习女仆。
-
-和姐姐绯芽不同，青芽十分可靠，她在姐姐绯芽身上藏了一个定位器，从而掌握了姐姐的实时位置。
-
-万一有哪个笨蛋伤害了宇宙第一重要的姐姐绯芽，绝对会受到来自青芽的制裁吧。
-
-战斗时，青芽会用自制的布娃娃熊吾郎进行战斗。布娃娃熊吾郎里装满了各种零食，这是青芽最喜欢的果汁，不是奶哦，酸酸甜甜味道不错。</aome.description>
-  <aome.tools.0.label>熊吾郎</aome.tools.0.label>
-  <aome.tools.1.label>熊吾郎</aome.tools.1.label>
+  <aome.label>Ram-horned aome</aome.label>
+  <aome.description>Ram-horned aomes are the sister species of the ram-horned akames. Unlike the akames, aomes are bold both in defending themselves and their sister species.
+  
+Similar to the ram-horned akames, the ram-horned aomes have a small guardian spirit that they wield in battle. Their Kumagoro will come to their defense any time they're attacked or angered.</aome.description>
+  <aome.tools.0.label>Kumagoro</aome.tools.0.label>
+  <aome.tools.1.label>Kumagoro</aome.tools.1.label>
 
 
 </LanguageData>
