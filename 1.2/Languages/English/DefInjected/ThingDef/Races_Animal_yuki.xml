@@ -1,18 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <yuki.label>冰龙雪儿</yuki.label>
-  <yuki.description>曾经在东方国家被畏惧的龙。
-和米可经过7天的战斗终于失败了，从龙变成了人。
-顺便好像也封印了一部分能力。
-
-对人类和米可的复仇心也渐渐淡薄，现在已经很熟悉人类文化了。
-也能使用电脑等。
-因为力量无法战胜米可，所以想用IT知识来收集情报。
-大体上是用物理或妖术来反击。
-和米可一样，饭量很大的雪儿也会流一些口水，真的不是奶啦，收集后可以食用。雪儿的龙涎比较珍贵，虽然味道一般，但是可以强壮身体。</yuki.description>
-  <yuki.tools.0.label>龙爪</yuki.tools.0.label>
-  <yuki.tools.1.label>龙爪</yuki.tools.1.label>
+  <yuki.label>Frost-dragon yuki</yuki.label>
+  <yuki.description>The frost-dragon yukis were once true dragons that brutalized the unlucky rimworlds they lived on. Legend has it that the cat-eared mikos struck down the dragons and forced them to seal their powers away in a humanoid form.
+  
+While the yukis initially resented the mikos for locking their true forms in such a frail body, they eventually grew to tolerate and in some cases even enjoy the simple things in life. Since their raw strength is locked within their humanoid bodies they instead choose to use ESP, especially ice magic. Despite this, they still have short claws they can defend themselves with if needed.</yuki.description>
+  <yuki.tools.0.label>Talons</yuki.tools.0.label>
+  <yuki.tools.1.label>Talons</yuki.tools.1.label>
 
 
 </LanguageData>

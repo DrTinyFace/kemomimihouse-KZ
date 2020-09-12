@@ -1,17 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <hana.label>兔耳花</hana.label>
-  <hana.description>有人跟小花说了一个小白和小空被某个殖民地抓起来了的假消息。
-为了寻找拯救她们，小花只身一人出发寻找小白和小空。
-小花的力气很大，但是没有战斗经验，不是很习惯进行战斗。
-当问到小花她为什么来找小白和小空时，她回答说是因为自己的部下(最好的朋友)被抓了，所以前来营救。
-事实上是小花听说自己的好朋友被抓之后，坐立不安，非常担心自己的好朋友小空和小白。
-简而言之，小花就是一个傲娇啦。
-
-小花是一位富商的女儿，每当商队到达殖民地进行交易时，小花也会跟商队进行交易并把赚来的白银交给你。小花身上会有香香的味道，好像还可以收集起来，反正不是奶啦，据说把它做成饭菜也会有爱的甜甜味道。直接饮用会得到爱的力量。</hana.description>
-  <hana.tools.0.label>拳头</hana.tools.0.label>
-  <hana.tools.1.label>拳头</hana.tools.1.label>
+  <hana.label>Rabbit-eared hana</hana.label>
+  <hana.description>Powerful but clumsy creatures, the rabbit-eared hanas are a rare species on the rimworlds. They seem to cohabitate well with the fox-eared kon and the wolf-eared siro, but tend to act aloof and sometimes slightly hostile towards others. They will act similarly to communities that take them in.
+  
+  The rabbit-eared hana seem to have their own trade caravans roaming the rimworlds. Communities that take them in will occasionally wake up to extra silver or a strange flowery-smelling liquid in their storage. This liquid is known to be safe for consumption and is even known to make the consumer look a bit younger and talk a bit sweeter, even if it's only temporary.</hana.description>
+  <hana.tools.0.label>Fist</hana.tools.0.label>
+  <hana.tools.1.label>Fist</hana.tools.1.label>
 
 
 </LanguageData>

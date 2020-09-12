@@ -5,21 +5,17 @@
   <Apparel_konarmor.label>Kon armor</Apparel_konarmor.label>
   <Apparel_konarmor.description>A strange armor made from concrete that kons seem to take a liking to.
   
-  Due to the fact that it's made out of concrete, it's extremely heavy and hard to wear.</Apparel_konarmor.description>
+Due to the fact that it's made out of concrete, it's extremely heavy and hard to wear.</Apparel_konarmor.description>
 
   <Apparel_konkasa.label>Kon ear hat</Apparel_konkasa.label>
   <Apparel_konkasa.description>A hat with small holes to allow for ears. A tight fit, but better than nothing.</Apparel_konkasa.description>
 
- <Apparel_siroarmor.label>狼兽耳族秘籍</Apparel_siroarmor.label>
-  <Apparel_siroarmor.description>小白背后流传的秘传书副本
-使佩戴者的身体强健
-只是有点重</Apparel_siroarmor.description>
+ <Apparel_siroarmor.label>Siro armor</Apparel_siroarmor.label>
+  <Apparel_siroarmor.description>A weighted set of armor used by the wolf-eared siros. Helps train the body to endure much more strain due to the added weight.</Apparel_siroarmor.description>
 
- <Apparel_siroomen.label>战斗用小白狼面</Apparel_siroomen.label>
-  <Apparel_siroomen.description>狼兽耳族暗杀时使用的面具
-在杀死对方之前，必须先杀掉自己的心。</Apparel_siroomen.description>
+ <Apparel_siroomen.label>Siro combat mask</Apparel_siroomen.label>
+  <Apparel_siroomen.description>A combat mask made and worn by the wolf-eared siros. These masks are usually painted in a fake blood to intimidate enemies.</Apparel_siroomen.description>
 
- <Apparel_kuroomen.label>战斗用黑色犬面</Apparel_kuroomen.label>
-  <Apparel_kuroomen.description>小黑爱用的狗耳族战斗用的假面。
-是参考深爱的小白姐姐的脸而制作的。</Apparel_kuroomen.description>
+ <Apparel_kuroomen.label>Kuro combat mask</Apparel_kuroomen.label>
+  <Apparel_kuroomen.description>A combat mask made and worn by the the dog-eared kuros. Bears a minor resemblance to the wolf-eared siros.</Apparel_kuroomen.description>
 </LanguageData>
