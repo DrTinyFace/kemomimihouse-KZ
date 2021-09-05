@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_konkatana.label>Kon katana replica</MeleeWeapon_konkatana.label>
+  <MeleeWeapon_konkatana.description>A replica of the legendary sword Sora Maru Keimitsu, wielded centuries ago by a long gone fox-eared kon.
+  
+As the kon are very protective about their blades, they are reluctant to give up information on how to make them. This causes a number of difficulties for those attempting to craft them.</MeleeWeapon_konkatana.description>
+  <MeleeWeapon_konkatana.tools.0.label>Handle</MeleeWeapon_konkatana.tools.0.label>
+  <MeleeWeapon_konkatana.tools.1.label>Tip</MeleeWeapon_konkatana.tools.1.label>
+  <MeleeWeapon_konkatana.tools.2.label>Blade</MeleeWeapon_konkatana.tools.2.label>
+
+  <MeleeWeapon_sirokatana.label>Siro katana replica</MeleeWeapon_sirokatana.label>
+  <MeleeWeapon_sirokatana.description>A replica of the white katanas often used by the wolf-eared siros. While it's a functional weapon, it's more often used for aesthetic purposes, such as cutting fruit.</MeleeWeapon_sirokatana.description>
+  <MeleeWeapon_sirokatana.tools.0.label>Handle</MeleeWeapon_sirokatana.tools.0.label>
+  <MeleeWeapon_sirokatana.tools.1.label>Tip</MeleeWeapon_sirokatana.tools.1.label>
+  <MeleeWeapon_sirokatana.tools.2.label>Blade</MeleeWeapon_sirokatana.tools.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<KKz_SettingsCategory_label>kemomimihouse KZ</KKz_SettingsCategory_label>
+	
+	<KKz_SettingsContents_label>psyche's kemomimihouse Extension</KKz_SettingsContents_label>
+	<KKz_SettingsContents_tip>Additional support for the cute kemomimihouse mod. Both the author of this mod psyche and the translator DrTinyFace give full credit to the original mod's creator.</KKz_SettingsContents_tip>
+	
+	<KKz_kemomimiSpawnLimitNum_label>Maximum number of kemomimis (requires a restart)：{0}</KKz_kemomimiSpawnLimitNum_label>
+	<KKz_kemomimiSpawnLimitNum_tip>Adjusts the maximum number of each kemomimi that can spawn. This will override the main mod's spawn limit. Default is 3 of each kemomimi.</KKz_kemomimiSpawnLimitNum_tip>
+
+	<KKz_kemomimiChangeExplain_label>兽耳娘变身手术说明 => 「鼠标此处查看」</KKz_kemomimiChangeExplain_label>
+	<KKz_kemomimiChangeExplain_tip>雌性的原型小动物不会再检测手术是否会失败。殖民地如果有重复兽耳娘，需要更换耗费更贵的手术方案。因为米可和雪儿天赋很强，手术耗费也将更贵。原型动物是：美洲狮、黑豹、山羊、北极狼、赤狐、拉布拉多、绵羊、雪兔。</KKz_kemomimiChangeExplain_tip>
+	
+	<KKz_enableSleepbodyOptimize_label>启用睡姿优化</KKz_enableSleepbodyOptimize_label>
+	<KKz_enableSleepbodyOptimize_tip>重启生效，不支持旧存档已生成的兽耳娘，建议手动重制。新的兽耳娘也不支持1.2的Hardwoking，建议慎重开启。会禁用新生兽耳娘的帧检测睡眠机制，只在躺下前后检测，也兼容小火箭，更省资源，适用范围更广，就医修养也可能激活睡姿。睡姿绘图方法也重写，系统原生，效果更好，性能更强，允许不脱装备。</KKz_enableSleepbodyOptimize_tip>
+	
+	<KKz_enableSleepbodyHanaOptimize_label>——花花睡姿优化</KKz_enableSleepbodyHanaOptimize_label>
+	<KKz_enableSleepbodyHanaOptimize_tip>让花花的睡姿朝上，原版是朝下。朝下会显得更调皮，朝上会更好看。</KKz_enableSleepbodyHanaOptimize_tip>
+	
+	<KKz_enableSleepbodyAnimalGearOptimize_label>睡前脱妆优化：已选({0})</KKz_enableSleepbodyAnimalGearOptimize_label>
+	<KKz_enableSleepbodyAnimalGearOptimize_tip>会禁用原版睡前脱妆。虽然我修复了它导致的野生兽耳娘沉睡bug，但原版机制也是帧检测，不够节能。在启用「动物装备Animal Gear」后，有装备的兽耳娘会在睡前乱丢衣服，这可能是个性化设定，也可能是防止装备贴图错误拼接睡姿，但启用「睡姿优化」后能允许隐藏衣物和更多设定。</KKz_enableSleepbodyAnimalGearOptimize_tip>
+	
+	<KKz_enableSleepbodyAnimalGearOptimizeA_label>——睡姿保持衣物</KKz_enableSleepbodyAnimalGearOptimizeA_label>
+	<KKz_enableSleepbodyAnimalGearOptimizeA_tip>经过观察，睡姿和衣物贴图还算契合，保持不动就穿在身上也不错。</KKz_enableSleepbodyAnimalGearOptimizeA_tip>
+	
+	<KKz_enableSleepbodyAnimalGearOptimizeB_label>——隐藏衣物图层</KKz_enableSleepbodyAnimalGearOptimizeB_label>
+	<KKz_enableSleepbodyAnimalGearOptimizeB_tip>躺下时隐藏多余图层，只保留睡姿，站起时恢复。</KKz_enableSleepbodyAnimalGearOptimizeB_tip>
+	
+	<KKz_enableSleepbodyAnimalGearOptimizeC_label>——睡前脱掉衣物</KKz_enableSleepbodyAnimalGearOptimizeC_label>
+	<KKz_enableSleepbodyAnimalGearOptimizeC_tip>和原版一样，但不是帧检测，只在睡前触发一次。</KKz_enableSleepbodyAnimalGearOptimizeC_tip>
+	
+	<KKz_enableSleepbodyAnimalGearOptimizeD_label>——背包存储衣物</KKz_enableSleepbodyAnimalGearOptimizeD_label>
+	<KKz_enableSleepbodyAnimalGearOptimizeD_tip>会自动把衣物装进背包，醒后择机穿戴，你可以在睡觉期间取下需要修复更换的装备。现在暂时设定为醒后瞬间把衣物再穿上，可能还需要测试优化，添加后续动作。</KKz_enableSleepbodyAnimalGearOptimizeD_tip>
+	
+	<KKz_enablekemomimiMoveSpeedOptimize_label>启用移速限制（需要重启）</KKz_enablekemomimiMoveSpeedOptimize_label>
+	<KKz_enablekemomimiMoveSpeedOptimize_tip>为了更好的配合小火箭性能优化，可以设置兽耳娘的最大移速，现仅留给熟练玩家调整。一键针对优化待我以后专门研究小火箭。</KKz_enablekemomimiMoveSpeedOptimize_tip>
+	
+	<KKz_kemomimiMoveSpeedOptimizeMax_label>最大移速限制：{0}</KKz_kemomimiMoveSpeedOptimizeMax_label>
+	<KKz_kemomimiMoveSpeedOptimizeMax_tip>自由设定超过设定值的兽耳娘最大移速，重启后生效。</KKz_kemomimiMoveSpeedOptimizeMax_tip>
+	
+	<KKz_replacekemomimiCorpse_label>兽耳娘尸体替换为魂魄</KKz_replacekemomimiCorpse_label>
+	<KKz_replacekemomimiCorpse_tip>原尸体替换为可定义物品，贴图为睡姿，不能解刨不能食用不会腐烂，但依然支持复活液，让动物也能广播和回收定制死讯思想。之后还会有其他依赖这种魂魄机制的更新计划、比如定时自动复活、右键功能。尸体牵扯较大，多种其他模组可能会泛修改影响此功能，发现兽耳尸体的异常可关闭此选项</KKz_replacekemomimiCorpse_tip>
+	
+	<KKz_enablekemomimiIngestKz_label>启用兽娘拟人吃饭</KKz_enablekemomimiIngestKz_label>
+	<KKz_enablekemomimiIngestKz_tip>兽娘会像人类一样上桌或站着吃饭，并且拥有声音表现，但是吃草的时候可能会有些怪异。</KKz_enablekemomimiIngestKz_tip>
+	
+	<KKz_enablekemomimiIngestKzDestroyPlant_label>——销毁未吃完的植物</KKz_enablekemomimiIngestKzDestroyPlant_label>
+	<KKz_enablekemomimiIngestKzDestroyPlant_tip>没吃完的活植会掉落在餐厅，尝试解决，待验证可靠性，请反馈。</KKz_enablekemomimiIngestKzDestroyPlant_tip>
+	
+	<KKz_enablekemomimiIngestKzEatMeal_label>——优先吃烹饪食物</KKz_enablekemomimiIngestKzEatMeal_label>
+	<KKz_enablekemomimiIngestKzEatMeal_tip>兽耳娘会优先吃烹饪食物，训练兽耳娘所需的食物也可以是烹饪食物，是否会和其他食物节制模组冲突，请反馈。</KKz_enablekemomimiIngestKzEatMeal_tip>
+	
+	<KKz_enablekemomimiIngestKzEatMoodMeal_label>——食物选择权重心情因子</KKz_enablekemomimiIngestKzEatMoodMeal_label>
+	<KKz_enablekemomimiIngestKzEatMoodMeal_tip>在选择食物时像人类一样加入心情权重因子，就是越加心情的食物越容易选择，尺度跟人一样。</KKz_enablekemomimiIngestKzEatMoodMeal_tip>
+	
+	<KKz_enablekemomimiIngestKzDispenser_label>——允许使用营养膏合成机</KKz_enablekemomimiIngestKzDispenser_label>
+	<KKz_enablekemomimiIngestKzDispenser_tip>兽耳娘可以主动拿合成机的营养膏，没有刻意优先，待验证和其他拟人选项的配合性。</KKz_enablekemomimiIngestKzDispenser_tip>
+
+	<KKz_enablekemomimiIngestKzAnimalFoodHate_label>——启用动物饲料厌恶</KKz_enablekemomimiIngestKzAnimalFoodHate_label>
+	<KKz_enablekemomimiIngestKzAnimalFoodHate_tip>兽耳娘选择食物时排斥动物食品，但不影响饲养员训练选择食物。关闭时人类食物两倍权重，动物食物不变，开启时动物食物负权重，人类食物不变。</KKz_enablekemomimiIngestKzAnimalFoodHate_tip>
+
+	<KKz_enableyukiFrostbiteKz_label>启用冰龙雪儿吐息冻伤惩戒</KKz_enableyukiFrostbiteKz_label>
+	<KKz_enableyukiFrostbiteKz_tip>雪儿的冻伤会有其他额外效果，类似于颜正宝石护符的涅火【惩戒】。</KKz_enableyukiFrostbiteKz_tip>
+	
+	<KKz_enableyukiFrostbiteKzDamage_label>启用冰龙雪儿吐息和霸体的自动伤害</KKz_enableyukiFrostbiteKzDamage_label>
+	<KKz_enableyukiFrostbiteKzDamage_tip>雪儿的吐息惩戒和霸体反击都有再次冻伤的效果，不适应的可以关闭。</KKz_enableyukiFrostbiteKzDamage_tip>
+	
+	<KKz_enablekemomimiSpawnWarning_label>请注意，兽娘防重复请视情况开启。</KKz_enablekemomimiSpawnWarning_label>
+	<KKz_enablekemomimiSpawnWarning_tip>因为适应的方法不同，需要长期测试可靠性，以防万一。</KKz_enablekemomimiSpawnWarning_tip>
+	
+	<KKz_enablekemomimiSpawnControl_label>——重复兽耳娘防止生成</KKz_enablekemomimiSpawnControl_label>
+	<KKz_enablekemomimiSpawnControl_tip>新的防重复机制，原野生兽娘控制已经下线，这次修改的是地图野生动物舒适温度许可，也适用于大部分调用系统舒适温度的模组，但对特殊原因生成的兽耳娘无效，比如强制任务和手术变身。这个机制软性生效，基本不会红字，但涉及链靠前，如果出现动物异常离开地图，可以关闭此选项，等动物刷新。</KKz_enablekemomimiSpawnControl_tip>
+
+	<KKz_replaceSpawnRace_label>——重复兽耳娘初始替换为原型动物</KKz_replaceSpawnRace_label>
+	<KKz_replaceSpawnRace_tip>野外出现的重复兽耳将变成随机原型动物，如果是驮运状态会先掉落物品，这是替换控制，可能会有替换晚的情况，持续改进中。</KKz_replaceSpawnRace_tip>
+	
+	<KKz_replaceSpawnRaceEelite_label>替换为不重复兽耳娘</KKz_replaceSpawnRaceEelite_label>
+	<KKz_replaceSpawnRaceEelite_tip>地图上新增兽耳娘如果重复就替换为新品种直至9种都在地图上，严重破坏平衡，不推荐使用。</KKz_replaceSpawnRaceEelite_tip>
+	
+	<KKz_SettingRestore_label>Reset to default settings</KKz_SettingRestore_label>
+	<KKz_SettingRestore_tip>Restore Default</KKz_SettingRestore_tip>
+	
+	<KKz_enablekemomimiSoulPower_label>Enable kemomimi soul system</KKz_enablekemomimiSoulPower_label>
+	<KKz_enablekemomimiSoulPower_tip>Enable or disable the kemomimi soul system. This is primarily a debugging tool, but may help if you're having issues with it.</KKz_enablekemomimiSoulPower_tip>
+	
+	<KKz_kemomimiSoulPowerMul_label>调整魂力生成速度：{0}倍</KKz_kemomimiSoulPowerMul_label>
+	<KKz_kemomimiSoulPowerMul_tip>默认为1，主要方便我测试。</KKz_kemomimiSoulPowerMul_tip>
+	
+	<KKz_kemomimiSoulPowerCyc_label>调整魂力生成速度：{0}倍</KKz_kemomimiSoulPowerCyc_label>
+	<KKz_kemomimiSoulPowerCyc_tip>默认为1，主要方便我测试。</KKz_kemomimiSoulPowerCyc_tip>
+	
+	<KKz_kemomimiSoulPowerSettingRestore_label>Reset to default soul settings</KKz_kemomimiSoulPowerSettingRestore_label>
+	<KKz_kemomimiSoulPowerSettingRestore_tip>Restore Default</KKz_kemomimiSoulPowerSettingRestore_tip>
+	
+</LanguageData>

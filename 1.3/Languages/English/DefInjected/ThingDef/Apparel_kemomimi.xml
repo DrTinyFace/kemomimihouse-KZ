@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- I don't know that any of these are actually in game, but I'm translating them anyways-->
+  <Apparel_konarmor.label>Kon armor</Apparel_konarmor.label>
+  <Apparel_konarmor.description>A strange armor made from concrete that kons seem to take a liking to.
+  
+Due to the fact that it's made out of concrete, it's extremely heavy and hard to wear.</Apparel_konarmor.description>
+
+  <Apparel_konkasa.label>Kon ear hat</Apparel_konkasa.label>
+  <Apparel_konkasa.description>A hat with small holes to allow for ears. A tight fit, but better than nothing.</Apparel_konkasa.description>
+
+ <Apparel_siroarmor.label>Siro armor</Apparel_siroarmor.label>
+  <Apparel_siroarmor.description>A weighted set of armor used by the wolf-eared siros. Helps train the body to endure much more strain due to the added weight.</Apparel_siroarmor.description>
+
+ <Apparel_siroomen.label>Siro combat mask</Apparel_siroomen.label>
+  <Apparel_siroomen.description>A combat mask made and worn by the wolf-eared siros. These masks are usually painted in a fake blood to intimidate enemies.</Apparel_siroomen.description>
+
+ <Apparel_kuroomen.label>Kuro combat mask</Apparel_kuroomen.label>
+  <Apparel_kuroomen.description>A combat mask made and worn by the the dog-eared kuros. Bears a minor resemblance to the wolf-eared siros.</Apparel_kuroomen.description>
+</LanguageData>

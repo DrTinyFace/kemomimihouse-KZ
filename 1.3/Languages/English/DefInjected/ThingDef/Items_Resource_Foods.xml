@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!--Drinks-->
+<AkameMilk.label>Akame's almond milk</AkameMilk.label>
+<AkameMilk.description>Ram-horned akames have a strange love for almond milk, and like to share with those around them. Incredibly nutritious and pretty tasty.</AkameMilk.description>
+<MikoWater.label>Miko's rice milk</MikoWater.label>
+<MikoWater.description>Cat-eared mikos are known to enjoy rice milk, which they make themselves and occasionally share with those who befriend them. Though it doesn't have the best taste to it, it's very nutritious and has a long shelf life.</MikoWater.description>
+<YukiBreath.label>Yuki's liquid amber</YukiBreath.label>
+<YukiBreath.description>Frost-dragon yukis know how to create an ancient liquid known only as liquid amber. This liquid can be drank to increase all of a user's physical abilities or sold as a luxury item.</YukiBreath.description>
+<SiroWine.label>Siro's wine</SiroWine.label>
+<SiroWine.description>Wolf-eared siros know a recipe to make a "wine" out of wild fruits. Through unknown means, it gives the user the looks of being drunk while allowing them to maintain a clear mind.</SiroWine.description>
+<KuroTea.label>Kuro's black tea</KuroTea.label>
+<KuroTea.description>Dog-eared kuros</KuroTea.description>
+<KonHerbs.label>Kon's liquified herbs</KonHerbs.label>
+<KonHerbs.description>Fox-eared kons are incredibly compassionate creatures, which causes them to gather various herbs to treat the wounds of their allies. This medicine is much stronger than regular herbal medicine, but not as strong as glitterworld medicine.</KonHerbs.description>
+<AomeDrink.label>Aome's green sprout juice</AomeDrink.label>
+<AomeDrink.description>Ram-horned aomes have a unique ability to find strange green sprouts which they use to make a juice. This juice makes the user more charismatic, allowing them to get better deals with trade caravans or ships.</AomeDrink.description>
+<HanaPerfume.label>Hana's floral tea</HanaPerfume.label>
+<HanaPerfume.description>An odd pink drink often traded by rabbit-eared hana caravans. Temporarily lets the user look and feel more beautiful.</HanaPerfume.description>
+
+<!--Hediffs-->
+<MikoWaterHigh.label>Drank rice milk</MikoWaterHigh.label>
+<MikoWaterHigh.description>A glass of rice milk before a hunt always helps me get excited!</MikoWaterHigh.description>
+<YukiBreathHigh.label>Drank liquid amber</YukiBreathHigh.label>
+<YukiBreathHigh.description>My mind's working faster, and I feel stronger and healthier.</YukiBreathHigh.description>
+<SiroWineHigh.label>Drank siro wine</SiroWineHigh.label>
+<SiroWineHigh.description>I'm stumbling like I'm drunk, but I still have full consciousness. The unpredictability could be useful for fighting.</SiroWineHigh.description>
+<KuroTeaHigh.label>Drank black tea</KuroTeaHigh.label>
+<KuroTeaHigh.description>I can already feel the toxicity draining from my body after drinking that tea.</KuroTeaHigh.description>
+<AomeDrinkHigh.label>Drank green juice</AomeDrinkHigh.label>
+<AomeDrinkHigh.description>Drinking that green sprout juice has made me more charismatic. I should try and get a deal from one of the caravans.</AomeDrinkHigh.description>
+<HanaPerfumeHigh.label>Drank floral tea</HanaPerfumeHigh.label>
+<HanaPerfumeHigh.description>The beautiful smell of this tea is on my breath and it makes me feel more beautiful!</HanaPerfumeHigh.description>
+
+</LanguageData>

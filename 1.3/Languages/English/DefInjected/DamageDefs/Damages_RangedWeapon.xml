@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Bullet_harapan.label>腹交拳</Bullet_harapan.label>
+  <Bullet_harapan.deathMessage>{0}被打死了。</Bullet_harapan.deathMessage>
+
+</LanguageData>

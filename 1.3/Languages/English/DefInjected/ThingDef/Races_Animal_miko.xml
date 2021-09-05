@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <miko.label>Cat-eared miko</miko.label>
+  <miko.description>Cat-eared mikos are well known for their love of human food and their immense appetites. They maintain a youthful appearance throughout their whole lives, luring potential attackers into a false sense of security.
+  
+Mikos are also known for their powerful ranged attacks and incredible speed. While they do less damage up close, they can use their shikigami (small but powerful summoned spirits) to rapidly attack an enemy at range.
+  </miko.description>
+  <miko.tools.0.label>Claw</miko.tools.0.label>
+  <miko.tools.1.label>Claw</miko.tools.1.label>
+  <miko.verbs.0.label>Shikigami</miko.verbs.0.label>
+
+
+
+</LanguageData>

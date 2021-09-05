@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<KKz_KonHerbsRipening>药液挥发贬值中</KKz_KonHerbsRipening>
+	<KKz_KonHerbsCurrentlyFrozen>小空的药液已被冷冻，不会挥发为中性胺。</KKz_KonHerbsCurrentlyFrozen>
+	<KKz_KonHerbsCurrentlyRefrigerated>小空的药液已被冷藏，挥发为中性胺的过程减缓（{0}后完成）</KKz_KonHerbsCurrentlyRefrigerated>
+	<KKz_KonHerbsDryingCorrectly>温度不适，小空的药液将会挥发为中性胺（{0}后完成）</KKz_KonHerbsDryingCorrectly>
+
+</LanguageData>
